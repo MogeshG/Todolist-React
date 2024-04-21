@@ -55,7 +55,7 @@ function TodoList() {
     };
 
     return (
-        <div className="todoList">
+        <div className="todoList bg-red">
             <h2>TODO LIST</h2>
             <div className="container">
                 <div className="inputContainer">
