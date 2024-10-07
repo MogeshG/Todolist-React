@@ -1,5 +1,6 @@
 {
   "name": "todolist",
+  "homepage": "https://MogeshG.github.io/Todolist-React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
